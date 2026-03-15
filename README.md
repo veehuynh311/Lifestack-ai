@@ -6,6 +6,49 @@ LifeStack AI is a RAG-powered lifestyle and productivity assistant that helps us
 Drawing from 20 peer-reviewed sources across procrastination psychology, sleep science, supplement research, and habit-building literature — it generates a **personalized daily plan** based on the user's goals, energy levels, and schedule, and delivers **science-backed rescue strategies** when procrastination or low energy derails their day.
 
 ---
+## 💡 The Problem — A Real Story
+
+This project started as my own struggle.
+
+I used to wake up with a full day planned — study sessions, gym, meal prep — and somehow end up spending the first two hours doom scrolling in bed. By the time I actually got up, I'd already missed my best cognitive window, felt guilty, and had no energy to start. I'd search "how to stop procrastinating" and get the same generic advice: *just wake up earlier*, *make a to-do list*, *believe in yourself*. None of it was grounded in actual science. None of it was tailored to me.
+
+That's the gap LifeStack AI fills.
+
+---
+
+## 🎯 What Is LifeStack AI?
+
+LifeStack AI is a RAG-powered lifestyle and productivity assistant that gives you **personalized, science-backed strategies** — not generic advice. It draws from 20 peer-reviewed research documents spanning procrastination psychology, sleep science, nutrition timing, supplement research, and habit-building frameworks to generate answers that are grounded in real evidence and cited every time.
+
+Every answer is specific to **you** — your goals, your sleep quality, your schedule, your struggles. And every claim is backed by a source you can verify.
+
+---
+
+## 👤 Target Users
+
+LifeStack AI is built for **high-performing students and young professionals** who:
+
+- Struggle with procrastination, task initiation, or doom scrolling
+- Want to optimize their energy, focus, and training simultaneously
+- Are frustrated by generic productivity advice that doesn't account for their biology
+- Want science-backed answers, not motivational platitudes
+
+The core user is someone managing competing demands — studying, training, working — who needs a system that adapts to how they actually feel each day, not a one-size-fits-all routine.
+
+---
+
+## 💼 Business Value
+
+| Value | Description |
+|-------|-------------|
+| **Personalization at scale** | Every user gets a different plan based on their profile — no two answers are identical |
+| **Trust through citations** | Every answer cites peer-reviewed research — users know exactly where the advice comes from |
+| **Expandable knowledge base** | Adding new research requires only dropping files into the data folder and re-running ingestion |
+| **Zero hallucination guarantee** | The system is architecturally constrained to answer only from retrieved research — it cannot make things up |
+| **Multi-domain coverage** | One assistant covers procrastination, sleep, nutrition, supplements, habits, focus, training, and motivation — replacing 8 different apps |
+| **Audit trail** | Every query is logged with latency, sources, and profile — enabling continuous improvement |
+
+The long-term vision is a subscription productivity platform where users build a personal knowledge base of health and performance research, and the AI acts as their always-available, science-backed life coach.
 
 ## 📸 Demo
 
