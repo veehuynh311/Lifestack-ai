@@ -87,7 +87,7 @@ Personalized, Cited Response → Gradio UI
 ### 1. Open in Google Colab
 Upload `LifeStack_AI.ipynb` to Google Colab.
 
-### 2. Add your OpenAI API Key
+### 2. Add OpenAI API Key
 In Cell 3, replace:
 ```python
 OPENAI_API_KEY = "sk-your-key-here"
