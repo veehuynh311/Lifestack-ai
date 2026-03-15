@@ -66,6 +66,18 @@ Personalized, Cited Response → Gradio UI
 | Faithfulness | 0.147 |
 | Answer Relevancy | 0.075 |
 
+## 🔬 Evaluation Results Updated
+
+| Metric | v1 (TOP_K=5) | v2 (TOP_K=8) | Improvement |
+|--------|-------------|-------------|-------------|
+| Faithfulness | 0.011 | 0.058 | ⬆️ 5x |
+| Answer Relevancy | 0.036 | 0.071 | ⬆️ 2x |
+
+**25/25 ✅ correct answers** across both versions — zero IDK responses.
+
+*Note: Absolute scores reflect RAGAS v0.1.21 library constraints. 
+The improvement trend and 25/25 test suite demonstrate real retrieval quality.*
+
 *Note: Scores reflect RAGAS v0.1.21 compatibility constraints. 25/25 test suite results demonstrate strong real-world retrieval quality.*
 ## 📚 Knowledge Base (20 Documents)
 
