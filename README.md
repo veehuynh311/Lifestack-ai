@@ -10,13 +10,13 @@ Drawing from 20 peer-reviewed sources across procrastination psychology, sleep s
 ## 📸 Demo
 
 ### Onboarding — Tell LifeStack About Your Day
-![Onboarding Screen](assets/onboarding.png)
+![Onboarding Screen](onboarding.png)
 
 ### 📅 Plan My Day
-![Plan My Day](assets/plan_my_day.png)
+![Plan My Day](plan_my_day.png)
 
 ### 🚨 Rescue Mode — I Need Help Right Now
-![Rescue Mode](assets/rescue_mode.png)
+![Rescue Mode](rescue_mode.png)
 
 ---
 
