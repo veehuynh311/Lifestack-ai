@@ -50,6 +50,7 @@ RAG Chain (LangChain + GPT-4o-mini)
 Personalized, Cited Response → Gradio UI
 ```
 
+![Architecture](lifestack_ai_architecture.svg)
 ---
 ## 📊 Evaluation Results
 
